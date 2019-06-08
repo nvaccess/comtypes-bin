@@ -1,0 +1,5 @@
+bin/
+comtypes/gen/
+*.dist-info/
+__pycache__/
+*.pyc
